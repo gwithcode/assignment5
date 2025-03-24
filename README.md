@@ -1,6 +1,6 @@
 ### Installing necessary packages:  
 * `pip install fastapi`
-* `pip install "uvicorn[standard]"`  
+* `pip install 'uvicorn[standard]'`  
 * `pip install sqlalchemy`  
 * `pip install pymysql`
 * `pip install pytest`
